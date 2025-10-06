@@ -68,9 +68,9 @@
 
 ## 🏅 Achievements
 
-**Python with Excel(LINKEDIN)**
-**Data Analytics with Python(NPTEL)**
-**Java Spring Boot(INFOSYS SPRING BOARD)**
-**Web Development (Oasis Infobyte)**
-##🤝 Let's Connect!
-LinkedIn Gmail 💼 !Resume.
+**Python with Excel(LINKEDIN)**  
+**Data Analytics with Python(NPTEL)**  
+**Java Spring Boot(INFOSYS SPRING BOARD)**  
+**Web Development (Oasis Infobyte)**  
+##🤝 Let's Connect!  
+LinkedIn Gmail 💼 !Resume.  
