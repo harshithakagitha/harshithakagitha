@@ -73,6 +73,7 @@
 **Java Spring Boot(INFOSYS SPRING BOARD)**  
 **Web Development (Oasis Infobyte)**  
 ## 🤝 Let's Connect!  
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
-[Gmail](mailto:your.email@gmail.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/your-profile)  
+[✉️ Gmail](mailto:your.email@gmail.com)  
 [💼 Resume](https://drive.google.com/file/d/1-GikIQZW8rkkpKKsgC38IGwvobf1h1LE/view?usp=sharing)  
+
