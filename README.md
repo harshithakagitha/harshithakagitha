@@ -52,5 +52,25 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithakagitha&layout=compact&theme=radical)
 
 ---
+## 📚 Education
 
-⭐ *“Learning one line of code at a time!”*  
+🎓 **B.Tech in Information Technology**  
+*Shri Vishnu Engineering College for Women (2021–2025)*  
+**CGPA:** 7.74  
+
+🏫 **Intermediate – Sri Chaitanya  Junior College (2019–2021)**  
+**Marks:** 730 / 1000  
+
+🏫 **Class 10 – Narayana EM School**  
+**GPA:** 9.5 
+
+---
+
+## 🏅 Achievements
+
+Python with Excel(LINKEDIN)
+Data Analytics with Python(NPTEL)
+Java Spring Boot(INFOSYS SPRING BOARD)
+Web Development (Oasis Infobyte)
+🤝 Let's Connect!
+LinkedIn Gmail 💼 !Resume.
