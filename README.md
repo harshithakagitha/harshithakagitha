@@ -72,5 +72,5 @@
 **Data Analytics with Python(NPTEL)**  
 **Java Spring Boot(INFOSYS SPRING BOARD)**  
 **Web Development (Oasis Infobyte)**  
-##🤝 Let's Connect!  
+## 🤝 Let's Connect!  
 LinkedIn Gmail 💼 !Resume.  
