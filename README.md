@@ -16,9 +16,15 @@
 ---
 
 ## 🚀 Tech Stack
-**Languages:** Python, SQL  
-**Web Development:** HTML5, CSS3  
-**Tools & Technologies:** Git, GitHub, VS Code, Postman  
+
+### **Languages**
+🧠 Python • ☕ Java • 💻 C • 🧾 SQL  
+
+### **Web Development**
+🌐 HTML5 • 🎨 CSS3 • ⚙️ JavaScript • ⚛️ React  
+
+### **Tools & Technologies**
+🧰 Git • 📬 Postman • 💼 MS Office Tools  
 
 ---
 
